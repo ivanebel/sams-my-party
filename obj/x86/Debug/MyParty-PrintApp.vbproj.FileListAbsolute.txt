@@ -1,0 +1,17 @@
+C:\Users\ivan\documents\visual studio 2010\Projects\MyParty-PrintApp\MyParty-PrintApp\bin\Debug\MyParty-PrintApp.exe.config
+C:\Users\ivan\Documents\Visual Studio 2010\Projects\MyParty-PrintApp\MyParty-PrintApp\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\ivan\Documents\Visual Studio 2010\Projects\MyParty-PrintApp\MyParty-PrintApp\obj\x86\Debug\MyParty_PrintApp.frmPrintersConfig.resources
+C:\Users\ivan\Documents\Visual Studio 2010\Projects\MyParty-PrintApp\MyParty-PrintApp\obj\x86\Debug\MyParty_PrintApp.frmLabel.resources
+C:\Users\ivan\Documents\Visual Studio 2010\Projects\MyParty-PrintApp\MyParty-PrintApp\obj\x86\Debug\MyParty_PrintApp.frmLogin.resources
+C:\Users\ivan\Documents\Visual Studio 2010\Projects\MyParty-PrintApp\MyParty-PrintApp\obj\x86\Debug\MyParty_PrintApp.frmOrders.resources
+C:\Users\ivan\Documents\Visual Studio 2010\Projects\MyParty-PrintApp\MyParty-PrintApp\obj\x86\Debug\MyParty_PrintApp.frmPreview.resources
+C:\Users\ivan\Documents\Visual Studio 2010\Projects\MyParty-PrintApp\MyParty-PrintApp\obj\x86\Debug\MyParty_PrintApp.frmStores.resources
+C:\Users\ivan\Documents\Visual Studio 2010\Projects\MyParty-PrintApp\MyParty-PrintApp\obj\x86\Debug\MyParty_PrintApp.Resources.resources
+C:\Users\ivan\Documents\Visual Studio 2010\Projects\MyParty-PrintApp\MyParty-PrintApp\obj\x86\Debug\GenerateResource.read.1.tlog
+C:\Users\ivan\Documents\Visual Studio 2010\Projects\MyParty-PrintApp\MyParty-PrintApp\obj\x86\Debug\GenerateResource.write.1.tlog
+C:\Users\ivan\Documents\Visual Studio 2010\Projects\MyParty-PrintApp\MyParty-PrintApp\bin\Debug\MyParty-PrintApp.exe
+C:\Users\ivan\Documents\Visual Studio 2010\Projects\MyParty-PrintApp\MyParty-PrintApp\bin\Debug\MyParty-PrintApp.pdb
+C:\Users\ivan\Documents\Visual Studio 2010\Projects\MyParty-PrintApp\MyParty-PrintApp\bin\Debug\MyParty-PrintApp.xml
+C:\Users\ivan\Documents\Visual Studio 2010\Projects\MyParty-PrintApp\MyParty-PrintApp\obj\x86\Debug\MyParty-PrintApp.exe
+C:\Users\ivan\Documents\Visual Studio 2010\Projects\MyParty-PrintApp\MyParty-PrintApp\obj\x86\Debug\MyParty-PrintApp.xml
+C:\Users\ivan\Documents\Visual Studio 2010\Projects\MyParty-PrintApp\MyParty-PrintApp\obj\x86\Debug\MyParty-PrintApp.pdb
